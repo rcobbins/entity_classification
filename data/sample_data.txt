@@ -1,0 +1,3 @@
+This is a sample text {{John Smith}}{{PERSON_NAME}} {{CRLF}} New line here
+Another line with {{Apple, Inc.}}{{ORG_NAME}} and some text {{CRLF}} More text
+

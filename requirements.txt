@@ -1,0 +1,5 @@
+tensorflow
+tensorflow-probability
+transformers
+nltk
+scikit-learn
