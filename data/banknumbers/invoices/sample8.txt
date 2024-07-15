@@ -1,0 +1,38 @@
+INVOICE {{CRLF}}
+{{CRLF}}
+Invoice Number: 008 {{CRLF}}
+Invoice Date: April 1, 2024 {{CRLF}}
+Due Date: April 30, 2024 {{CRLF}}
+{{CRLF}}
+Bill To: {{CRLF}}
+Plumb Perfect {{CRLF}}
+321 Waterway Drive {{CRLF}}
+Flowtown, FL 32001 {{CRLF}}
+{{CRLF}}
+Description of Services Provided: {{CRLF}}
+{{CRLF}}
+| Qty | Description | Unit Price | Total | {{CRLF}}
+|--------|------------------------------------|---------------|----------------| {{CRLF}}
+| 1 | Leak Detection | $100.00 | $100.00 | {{CRLF}}
+| 1 | Pipe Repair | $200.00 | $200.00 | {{CRLF}}
+| 1 | Water Heater Installation | $1,000.00 | $1,000.00 | {{CRLF}}
+| 1 | Drain Cleaning | $150.00 | $150.00 | {{CRLF}}
+| 1 | Faucet Replacement | $200.00 | $200.00 | {{CRLF}}
+| 1 | Bathroom Remodel | $2,000.00 | $2,000.00 | {{CRLF}}
+| 1 | Emergency Service | $500.00 | $500.00 | {{CRLF}}
+{{CRLF}}
+Subtotal: $4,150.00 {{CRLF}}
+Tax (8%): $332.00 {{CRLF}}
+Total: $4,482.00 {{CRLF}}
+{{CRLF}}
+Please remit payment to the following bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+
+Bank Name: Flowtown Bank {{CRLF}}
+Branch Address: 456 Aqua Street, Flowtown, FL 32001 {{CRLF}}
+Routing Number: 012345678 {{CRLF}}
+Account Number: {{098765432}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Business Checking {{CRLF}}
+{{CRLF}}
+Thank you for your prompt payment. {{CRLF}}

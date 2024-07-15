@@ -1,0 +1,16 @@
+Details of Employee: {{CRLF}}
+
+Employee Name: Linda Wilson {{CRLF}}
+Residential Address: 654 Willow Dr, Riverdale, FL 32001 {{CRLF}}
+Employee Number: 1006 {{CRLF}}
+Banking Info: {{CRLF}}
+
+Name of Bank: US Bank {{CRLF}}
+Location: 876 Cherry Ln, Riverdale, FL 32001 {{CRLF}}
+Routing Number: 678901234 {{CRLF}}
+Account #: {{432109876}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Savings {{CRLF}}
+Consent and Authorization: {{CRLF}}
+
+Signature: Linda Wilson {{CRLF}}
+Date: 04/01/2024 {{CRLF}}

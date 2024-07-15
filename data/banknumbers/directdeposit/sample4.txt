@@ -1,0 +1,16 @@
+Employee Details: {{CRLF}}
+
+Full Name: Emily Davis {{CRLF}}
+Address: 321 Cedar Ln, Smalltown, OH 45001 {{CRLF}}
+Employee ID: 1004 {{CRLF}}
+Bank Details: {{CRLF}}
+
+Bank Name: Wells Fargo {{CRLF}}
+Branch Address: 654 Ash Ave, Smalltown, OH 45001 {{CRLF}}
+Routing Number: 456789012 {{CRLF}}
+Account Number: {{654321098}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Type of Account: Savings {{CRLF}}
+Authorization Consent: {{CRLF}}
+
+Signature: Emily Davis {{CRLF}}
+Date: 03/01/2024 {{CRLF}}

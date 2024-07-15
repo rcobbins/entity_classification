@@ -1,0 +1,37 @@
+INVOICE {{CRLF}}
+{{CRLF}}
+Invoice Number: 009 {{CRLF}}
+Invoice Date: April 10, 2024 {{CRLF}}
+Due Date: May 10, 2024 {{CRLF}}
+{{CRLF}}
+Bill To: {{CRLF}}
+Bright Light Electrical {{CRLF}}
+123 Power Lane {{CRLF}}
+Electro City, TX 75002 {{CRLF}}
+{{CRLF}}
+Description of Services Provided: {{CRLF}}
+{{CRLF}}
+| Qty | Description | Unit Price | Total | {{CRLF}}
+|--------|------------------------------------|---------------|-----------------| {{CRLF}}
+| 1 | Electrical Inspection | $150.00 | $150.00 | {{CRLF}}
+| 1 | Circuit Breaker Replacement | $200.00 | $200.00 | {{CRLF}}
+| 1 | Ceiling Fan Installation | $250.00 | $250.00 | {{CRLF}}
+| 1 | Lighting Fixture Installation | $300.00 | $300.00 | {{CRLF}}
+| 1 | Panel Upgrade | $1,000.00 | $1,000.00 | {{CRLF}}
+| 1 | Whole House Rewiring | $3,000.00 | $3,000.00 | {{CRLF}}
+{{CRLF}}
+Subtotal: $4,900.00 {{CRLF}}
+Tax (8%): $392.00 {{CRLF}}
+Total: $5,292.00 {{CRLF}}
+{{CRLF}}
+Please remit payment to the following bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+
+Bank Name: Electro City Bank {{CRLF}}
+Branch Address: 456 Voltage Street, Electro City, TX 75002 {{CRLF}}
+Routing Number: 123456789 {{CRLF}}
+Account Number: {{987654321}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Business Checking {{CRLF}}
+{{CRLF}}
+Thank you for choosing Bright Light Electrical! {{CRLF}}

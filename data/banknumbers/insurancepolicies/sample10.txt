@@ -1,0 +1,67 @@
+MARINE INSURANCE POLICY {{CRLF}}
+{{CRLF}}
+Policy Number: MI-77665544 {{CRLF}}
+Effective Date: October 1, 2024 {{CRLF}}
+Expiry Date: September 30, 2025 {{CRLF}}
+{{CRLF}}
+Policyholder Information: {{CRLF}}
+Oceanic Shipping, Inc. {{CRLF}}
+456 Dockside Drive {{CRLF}}
+Harbor City, NY 10003 {{CRLF}}
+{{CRLF}}
+Coverage Details: {{CRLF}}
+{{CRLF}}
+1. Hull and Machinery Coverage {{CRLF}}
+Coverage for physical damage to the vessel's hull and machinery. {{CRLF}}
+{{CRLF}}
+
+Coverage Limit: $5,000,000 {{CRLF}}
+{{CRLF}}
+2. Protection and Indemnity Coverage {{CRLF}}
+Coverage for legal liability arising from the operation of the vessel. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $10,000,000 {{CRLF}}
+{{CRLF}}
+3. Cargo Insurance {{CRLF}}
+Coverage for physical loss or damage to cargo while in transit. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $1,000,000 {{CRLF}}
+{{CRLF}}
+4. Freight Insurance {{CRLF}}
+Coverage for loss of freight revenue due to vessel damage or cargo loss. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $500,000 {{CRLF}}
+{{CRLF}}
+5. War Risk Insurance {{CRLF}}
+Coverage for damage or loss due to war, piracy, and other war-like perils. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $2,000,000 {{CRLF}}
+{{CRLF}}
+6. Crew Liability Coverage {{CRLF}}
+Coverage for medical expenses and other liabilities related to crew injuries or {{CRLF}}
+illnesses. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $1,000,000 {{CRLF}}
+{{CRLF}}
+Payment Details: {{CRLF}}
+Premiums are due on a semi-annual basis. Please remit payment to the following {{CRLF}}
+bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+Bank Name: Harbor City Bank {{CRLF}}
+Branch Address: 789 Maritime Blvd, Harbor City, NY 10003 {{CRLF}}
+Routing Number: 890123456 {{CRLF}}
+Account Number: {{210987654}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Business Checking {{CRLF}}
+{{CRLF}}
+Claims Information: {{CRLF}}
+For claim disbursements, payments will be made to the following bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+Bank Name: Harbor City Bank {{CRLF}}
+Branch Address: 789 Maritime Blvd, Harbor City, NY 10003 {{CRLF}}
+Routing Number: 890123456 {{CRLF}}
+Account Number: {{210987654}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Business Checking {{CRLF}}
+{{CRLF}}
+Thank you for choosing Oceanic Marine Insurance. {{CRLF}}

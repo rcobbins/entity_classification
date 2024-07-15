@@ -1,0 +1,16 @@
+Employee Identification: {{CRLF}}
+
+Name: Sarah Harris {{CRLF}}
+Address: 567 Spruce Rd, Forest City, WA 98001 {{CRLF}}
+Employee Number: 1008 {{CRLF}}
+Bank Information: {{CRLF}}
+
+Financial Institution: TD Bank {{CRLF}}
+Branch Address: 987 Pine Blvd, Forest City, WA 98001 {{CRLF}}
+Routing Number: 890123456 {{CRLF}}
+Account Number: {{210987654}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Savings {{CRLF}}
+Authorization Signature: {{CRLF}}
+
+Signed By: Sarah Harris {{CRLF}}
+Date: 05/01/2024 {{CRLF}}

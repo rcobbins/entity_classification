@@ -1,0 +1,29 @@
+Dear Finance Team, {{CRLF}}
+{{CRLF}}
+We are writing to provide the payment instructions for {{CRLF}}
+Invoice #68024, dated October 5, 2023, for the research and {{CRLF}}
+development services provided in Q3 2023. Please remit the {{CRLF}}
+payment to the bank account detailed below: {{CRLF}}
+{{CRLF}}
+Banking Information: {{CRLF}}
+
+Bank: HSBC {{CRLF}}
+Branch Location: 123 Cedar Ln, Harborview, MA 02101 {{CRLF}}
+Routing Number: 901234567 {{CRLF}}
+Account Number: {{109876543}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+{{CRLF}}
+The payment should be completed by November 5, 2023. Any {{CRLF}}
+delays may incur additional fees as per our agreement. If {{CRLF}}
+you require any further information, please contact our {{CRLF}}
+accounts payable team at (555) 567-8901 or {{CRLF}}
+payable@rndservices.com. {{CRLF}}
+{{CRLF}}
+Thank you for your timely payment. {{CRLF}}
+{{CRLF}}
+Sincerely, {{CRLF}}
+{{CRLF}}
+Kevin Martinez {{CRLF}}
+Accounts Receivable Manager {{CRLF}}
+R&D Services Ltd. {{CRLF}}
+{{CRLF}}

@@ -1,0 +1,39 @@
+INVOICE {{CRLF}}
+{{CRLF}}
+Invoice Number: 003 {{CRLF}}
+Invoice Date: February 10, 2024 {{CRLF}}
+Due Date: March 10, 2024 {{CRLF}}
+{{CRLF}}
+Bill To: {{CRLF}}
+Elegant Events {{CRLF}}
+456 Celebration Ave {{CRLF}}
+Joytown, TX 75001 {{CRLF}}
+{{CRLF}}
+Description of Services Provided: {{CRLF}}
+{{CRLF}}
+| Qty | Description | Unit Price | Total | {{CRLF}}
+|--------|----------------------------------------|---------------|---------------| {{CRLF}}
+| 100 | Appetizers - 100 servings | $5.00 | $500.00 | {{CRLF}}
+| 100 | Main Course - 100 servings | $15.00 | $1,500.00 | {{CRLF}}
+| 100 | Desserts - 100 servings | $4.00 | $400.00 | {{CRLF}}
+| 100 | Beverages - 100 servings | $2.00 | $200.00 | {{CRLF}}
+| 1 | Service Staff - 10 servers | $50.00 | $500.00 | {{CRLF}}
+| 1 | Setup and Cleanup | $300.00 | $300.00 | {{CRLF}}
+| 50 | Table Settings - 50 sets | $10.00 | $500.00 | {{CRLF}}
+| 1 | Event Coordination | $400.00 | $400.00 | {{CRLF}}
+{{CRLF}}
+Subtotal: $4,300.00 {{CRLF}}
+Tax (8%): $344.00 {{CRLF}}
+Total: $4,644.00 {{CRLF}}
+{{CRLF}}
+Please remit payment to the following bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+
+Bank Name: Joytown Bank {{CRLF}}
+Branch Address: 789 Celebration Ave, Joytown, TX 75001 {{CRLF}}
+Routing Number: 456789012 {{CRLF}}
+Account Number: {{654321098}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Business Checking {{CRLF}}
+{{CRLF}}
+Thank you for choosing Elegant Events! {{CRLF}}

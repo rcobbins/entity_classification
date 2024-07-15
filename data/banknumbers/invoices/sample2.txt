@@ -1,0 +1,39 @@
+INVOICE {{CRLF}}
+{{CRLF}}
+Invoice Number: 002 {{CRLF}}
+Invoice Date: February 1, 2024 {{CRLF}}
+Due Date: March 1, 2024 {{CRLF}}
+{{CRLF}}
+Bill To: {{CRLF}}
+XYZ Office Supplies {{CRLF}}
+789 Corporate Blvd {{CRLF}}
+Capital City, CA 90001 {{CRLF}}
+{{CRLF}}
+Description of Goods Provided: {{CRLF}}
+{{CRLF}}
+| Qty | Description | Unit Price | Total | {{CRLF}}
+|--------|--------------------------------|---------------|-------------| {{CRLF}}
+| 50 | Reams of Paper | $5.00 | $250.00 | {{CRLF}}
+| 20 | Boxes of Pens | $3.00 | $60.00 | {{CRLF}}
+| 10 | Office Chairs | $150.00 | $1,500.00 | {{CRLF}}
+| 5 | Office Desks | $200.00 | $1,000.00 | {{CRLF}}
+| 100 | Folders | $1.00 | $100.00 | {{CRLF}}
+| 1 | Printer | $300.00 | $300.00 | {{CRLF}}
+| 2 | Shredders | $100.00 | $200.00 | {{CRLF}}
+| 25 | Staplers | $10.00 | $250.00 | {{CRLF}}
+{{CRLF}}
+Subtotal: $3,660.00 {{CRLF}}
+Tax (8%): $292.80 {{CRLF}}
+Total: $3,952.80 {{CRLF}}
+{{CRLF}}
+Please remit payment to the following bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+
+Bank Name: Capital Bank {{CRLF}}
+Branch Address: 123 Office Lane, Capital City, CA 90001 {{CRLF}}
+Routing Number: 345678901 {{CRLF}}
+Account Number: {{543210987}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Business Checking {{CRLF}}
+{{CRLF}}
+We appreciate your prompt payment. {{CRLF}}

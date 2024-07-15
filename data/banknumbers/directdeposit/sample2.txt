@@ -1,0 +1,16 @@
+Employee Info: {{CRLF}}
+
+Name: Jane Smith {{CRLF}}
+Home Address: 789 Maple Ave, Anytown, TX 75001 {{CRLF}}
+Employee Identifier: 1002 {{CRLF}}
+Bank Info: {{CRLF}}
+
+Name of Bank: Bank of America {{CRLF}}
+Address of Bank: 123 Oak St, Anytown, TX 75001 {{CRLF}}
+ABA Routing Number: 234567890 {{CRLF}}
+Account #: {{876543210}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Savings {{CRLF}}
+Authorization Signature: {{CRLF}}
+
+Signed By: Jane Smith {{CRLF}}
+Date: 02/01/2024 {{CRLF}}

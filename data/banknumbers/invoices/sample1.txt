@@ -1,0 +1,36 @@
+INVOICE {{CRLF}}
+{{CRLF}}
+Invoice Number: 001 {{CRLF}}
+Invoice Date: January 15, 2024 {{CRLF}}
+Due Date: February 15, 2024 {{CRLF}}
+{{CRLF}}
+Bill To: {{CRLF}}
+ABC Corporation {{CRLF}}
+123 Business Street {{CRLF}}
+Metropolis, NY 10001 {{CRLF}}
+{{CRLF}}
+Description of Services Provided: {{CRLF}}
+{{CRLF}}
+| Qty | Description | Unit Price | Total | {{CRLF}}
+|--------|--------------------------------------|---------------|--------------| {{CRLF}}
+| 10 | IT Consulting - 10 hours | $100.00 | $1,000.00 | {{CRLF}}
+| 1 | Network Security Assessment | $500.00 | $500.00 | {{CRLF}}
+| 1 | System Optimization | $300.00 | $300.00 | {{CRLF}}
+| 1 | Monthly Maintenance | $200.00 | $200.00 | {{CRLF}}
+| 2 | Software Installation - 2 instances | $150.00 | $300.00 | {{CRLF}}
+{{CRLF}}
+Subtotal: $2,300.00 {{CRLF}}
+Tax (8%): $184.00 {{CRLF}}
+Total: $2,484.00 {{CRLF}}
+{{CRLF}}
+Please remit payment to the following bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+
+Bank Name: Metropolis Bank {{CRLF}}
+Branch Address: 456 Elm Street, Metropolis, NY 10001 {{CRLF}}
+Routing Number: 234567890 {{CRLF}}
+Account Number: {{876543210}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Business Checking {{CRLF}}
+{{CRLF}}
+Thank you for your business! {{CRLF}}

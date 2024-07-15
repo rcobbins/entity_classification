@@ -1,0 +1,31 @@
+Attention: Finance Department, {{CRLF}}
+{{CRLF}}
+We are writing to provide the payment instructions for {{CRLF}}
+Invoice #98765, which was issued on April 25, 2024, for the {{CRLF}}
+marketing and advertising services we provided during Q1 {{CRLF}}
+2024. Please direct the payment to the following bank {{CRLF}}
+account: {{CRLF}}
+{{CRLF}}
+Banking Information: {{CRLF}}
+
+Bank Name: Chase Bank {{CRLF}}
+Branch Address: 789 Birch Rd, Metropolis, NY 10001 {{CRLF}}
+Routing Number: 345678901 {{CRLF}}
+Account Number: {{765432109}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+{{CRLF}}
+To ensure timely processing, we request that the payment be {{CRLF}}
+made by May 25, 2024. Please note that any delay in payment {{CRLF}}
+may result in additional charges as per our service {{CRLF}}
+agreement. If you have any questions or require further {{CRLF}}
+information, please reach out to our finance team at (555) {{CRLF}}
+654-3210 or finance@marketingpro.com. {{CRLF}}
+{{CRLF}}
+Thank you for your prompt attention to this matter. {{CRLF}}
+{{CRLF}}
+Warm regards, {{CRLF}}
+{{CRLF}}
+Robert Johnson {{CRLF}}
+Director of Finance {{CRLF}}
+MarketingPro Inc. {{CRLF}}
+{{CRLF}}

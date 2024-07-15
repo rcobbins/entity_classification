@@ -1,0 +1,86 @@
+COMMERCIAL LEASE AGREEMENT {{CRLF}}
+{{CRLF}}
+THIS LEASE AGREEMENT (hereinafter referred to as the "Agreement") {{CRLF}}
+made and entered into this 1st day of July, 2024, by and between Global {{CRLF}}
+Properties, Inc. (hereinafter referred to as the "Landlord") and Tech {{CRLF}}
+Innovations, LLC (hereinafter referred to as the "Tenant"). {{CRLF}}
+{{CRLF}}
+1. Premises: {{CRLF}}
+Landlord hereby leases to Tenant and Tenant hereby leases from Landlord {{CRLF}}
+the commercial premises located at 789 Innovation Drive, Suite 100, {{CRLF}}
+Techville, WA 98001 (hereinafter referred to as the "Premises"). {{CRLF}}
+{{CRLF}}
+2. Term: {{CRLF}}
+The term of this Agreement shall commence on the 1st day of August, 2024, {{CRLF}}
+and shall continue for a period of three (3) years, terminating on the 31st {{CRLF}}
+day of July, 2027. {{CRLF}}
+{{CRLF}}
+3. Rent: {{CRLF}}
+Tenant shall pay to Landlord monthly rent in the amount of Six Thousand {{CRLF}}
+Dollars ($6,000.00). The rent shall be payable in advance on the first day {{CRLF}}
+of each calendar month during the term hereof to the following bank {{CRLF}}
+account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+
+Bank Name: Techville Bank {{CRLF}}
+Branch Address: 123 Innovation Drive, Techville, WA 98001 {{CRLF}}
+Routing Number: 678901234 {{CRLF}}
+Account Number: {{210987654}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Business Checking {{CRLF}}
+{{CRLF}}
+4. Security Deposit: {{CRLF}}
+Tenant shall deposit with Landlord the sum of Twelve Thousand Dollars {{CRLF}}
+($12,000.00) as security for the full and faithful performance by Tenant of {{CRLF}}
+all the terms of this Agreement. {{CRLF}}
+{{CRLF}}
+5. Use of Premises: {{CRLF}}
+The Premises shall be used by Tenant solely for the purpose of conducting {{CRLF}}
+its business operations, specifically an office for Tech Innovations, LLC. {{CRLF}}
+Tenant shall not use the Premises for any other purpose without the prior {{CRLF}}
+written consent of Landlord. {{CRLF}}
+{{CRLF}}
+6. Maintenance and Repairs: {{CRLF}}
+Tenant shall, at its own expense, keep and maintain the Premises and {{CRLF}}
+appurtenances in good and sanitary condition during the term of this {{CRLF}}
+Agreement. Landlord shall be responsible for all structural repairs. {{CRLF}}
+{{CRLF}}
+7. Alterations and Improvements: {{CRLF}}
+Tenant shall not make any alterations, additions, or improvements to the {{CRLF}}
+Premises without the prior written consent of Landlord. Any alterations, {{CRLF}}
+additions, or improvements made shall become the property of the Landlord {{CRLF}}
+at the termination of this Agreement unless otherwise agreed in writing. {{CRLF}}
+{{CRLF}}
+8. Insurance: {{CRLF}}
+Tenant shall, at its own expense, obtain and maintain during the term of {{CRLF}}
+this Agreement, comprehensive general liability insurance in an amount not {{CRLF}}
+less than One Million Dollars ($1,000,000.00) per occurrence, with Landlord {{CRLF}}
+named as an additional insured. {{CRLF}}
+{{CRLF}}
+9. Indemnification: {{CRLF}}
+Tenant agrees to indemnify, defend, and hold harmless Landlord from any {{CRLF}}
+and all claims, liabilities, damages, and expenses, including reasonable {{CRLF}}
+attorney's fees, arising out of or in connection with Tenant's use of the {{CRLF}}
+Premises. {{CRLF}}
+{{CRLF}}
+10. Default: {{CRLF}}
+If Tenant fails to pay rent when due or breaches any other term of this {{CRLF}}
+Agreement, Landlord may terminate this Agreement and take possession of {{CRLF}}
+the Premises in accordance with applicable law. {{CRLF}}
+{{CRLF}}
+11. Termination: {{CRLF}}
+Either party may terminate this Agreement by giving the other party sixty {{CRLF}}
+(60) days' written notice of their intention to terminate. {{CRLF}}
+{{CRLF}}
+12. Governing Law: {{CRLF}}
+This Agreement shall be governed by and construed in accordance with the {{CRLF}}
+laws of the State of Washington. {{CRLF}}
+{{CRLF}}
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of {{CRLF}}
+the day and year first above written. {{CRLF}}
+{{CRLF}}
+__________________________ {{CRLF}}
+John Doe, Landlord {{CRLF}}
+{{CRLF}}
+__________________________ {{CRLF}}
+Jane Smith, Tenant {{CRLF}}

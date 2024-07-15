@@ -1,0 +1,28 @@
+To Whom It May Concern, {{CRLF}}
+{{CRLF}}
+Please be informed that the payment for Invoice #46802, {{CRLF}}
+issued on December 15, 2023, for the IT support services {{CRLF}}
+provided during Q4 2023, should be directed to the following {{CRLF}}
+account: {{CRLF}}
+{{CRLF}}
+Banking Details: {{CRLF}}
+
+Bank Name: PNC Bank {{CRLF}}
+Branch Address: 654 Maple Ave, Lakeside, MI 49001 {{CRLF}}
+Routing Number: 789012345 {{CRLF}}
+Account Number: {{321098765}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+{{CRLF}}
+We request that the payment be made by January 15, 2024. {{CRLF}}
+Please note that any delay may result in additional charges. {{CRLF}}
+Should you have any questions or need further clarification, {{CRLF}}
+please contact our accounts team at (555) 210-9876 or {{CRLF}}
+accounts@itsupport.com. {{CRLF}}
+{{CRLF}}
+Thank you for your cooperation. {{CRLF}}
+{{CRLF}}
+Best regards, {{CRLF}}
+{{CRLF}}
+Steven Lee {{CRLF}}
+Finance Director {{CRLF}}
+IT Support Services Ltd. {{CRLF}}

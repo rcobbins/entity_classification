@@ -1,0 +1,16 @@
+Employee Details: {{CRLF}}
+
+Name: Anna Clark {{CRLF}}
+Home Address: 123 Willow Ln, Mountainview, CO 80001 {{CRLF}}
+Employee ID: 1010 {{CRLF}}
+Bank Account Details: {{CRLF}}
+
+Financial Institution: Capital One {{CRLF}}
+Bank Address: 456 Oak Blvd, Mountainview, CO 80001 {{CRLF}}
+Routing Number: 012345678 {{CRLF}}
+Account Number: {{098765432}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Savings {{CRLF}}
+Employee Authorization: {{CRLF}}
+
+Signature: Anna Clark {{CRLF}}
+Date: 06/01/2024 {{CRLF}}

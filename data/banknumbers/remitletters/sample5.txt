@@ -1,0 +1,31 @@
+To: Accounts Payable Department, {{CRLF}}
+{{CRLF}}
+We are providing the payment instructions for Invoice {{CRLF}}
+#24680, issued on February 1, 2024, for the architectural {{CRLF}}
+design services provided for the new office project. Please {{CRLF}}
+ensure that all payments are made to the following bank {{CRLF}}
+account: {{CRLF}}
+{{CRLF}}
+Banking Details: {{CRLF}}
+
+Bank: Citibank {{CRLF}}
+Branch Address: 321 Spruce St, Capital City, CA 90001 {{CRLF}}
+Routing Number: 567890123 {{CRLF}}
+Account Number: {{543210987}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+{{CRLF}}
+Please make the payment by March 1, 2024, to avoid any {{CRLF}}
+delays in project timelines. If there are any issues or if {{CRLF}}
+further information is required, do not hesitate to contact {{CRLF}}
+our accounting team at (555) 432-1098 or {{CRLF}}
+accounting@archidesign.com. {{CRLF}}
+{{CRLF}}
+We appreciate your cooperation and timely payment. {{CRLF}}
+{{CRLF}}
+Best regards, {{CRLF}}
+{{CRLF}}
+Michael Brown {{CRLF}}
+Project Manager {{CRLF}}
+ArchiDesign Inc. {{CRLF}}
+{{CRLF}}
+

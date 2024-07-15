@@ -1,0 +1,39 @@
+INVOICE {{CRLF}}
+{{CRLF}}
+Invoice Number: 004 {{CRLF}}
+Invoice Date: February 20, 2024 {{CRLF}}
+Due Date: March 20, 2024 {{CRLF}}
+{{CRLF}}
+Bill To: {{CRLF}}
+Tech Solutions {{CRLF}}
+321 Innovation Blvd {{CRLF}}
+Silicon Valley, CA 94043 {{CRLF}}
+{{CRLF}}
+Description of Services Provided: {{CRLF}}
+{{CRLF}}
+| Qty | Description | Unit Price | Total | {{CRLF}}
+|--------|--------------------------------------|---------------|----------------| {{CRLF}}
+| 20 | Web Development - 20 hours | $120.00 | $2,400.00 | {{CRLF}}
+| 1 | Website Design | $1,000.00 | $1,000.00 | {{CRLF}}
+| 1 | SEO Optimization | $500.00 | $500.00 | {{CRLF}}
+| 1 | E-commerce Integration | $700.00 | $700.00 | {{CRLF}}
+| 1 | Mobile Optimization | $600.00 | $600.00 | {{CRLF}}
+| 1 | Content Management System Setup | $800.00 | $800.00 | {{CRLF}}
+| 1 | Security Enhancements | $300.00 | $300.00 | {{CRLF}}
+| 1 | Monthly Maintenance | $200.00 | $200.00 | {{CRLF}}
+{{CRLF}}
+Subtotal: $6,500.00 {{CRLF}}
+Tax (8%): $520.00 {{CRLF}}
+Total: $7,020.00 {{CRLF}}
+{{CRLF}}
+Please remit payment to the following bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+
+Bank Name: Silicon Valley Bank {{CRLF}}
+Branch Address: 123 Tech Ave, Silicon Valley, CA 94043 {{CRLF}}
+Routing Number: 567890123 {{CRLF}}
+Account Number: {{432109876}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Business Checking {{CRLF}}
+{{CRLF}}
+We appreciate your business! {{CRLF}}

@@ -1,0 +1,71 @@
+TRAVEL INSURANCE POLICY {{CRLF}}
+{{CRLF}}
+Policy Number: TI-55667788 {{CRLF}}
+Effective Date: May 1, 2024 {{CRLF}}
+Expiry Date: May 31, 2024 {{CRLF}}
+{{CRLF}}
+Policyholder Information: {{CRLF}}
+Sarah Lee {{CRLF}}
+789 Ocean Drive {{CRLF}}
+Beach City, CA 90210 {{CRLF}}
+{{CRLF}}
+Coverage Details: {{CRLF}}
+{{CRLF}}
+1. Trip Cancellation Coverage {{CRLF}}
+Coverage for non-refundable travel expenses if you need to cancel your trip {{CRLF}}
+due to a covered reason. {{CRLF}}
+{{CRLF}}
+
+Coverage Limit: $5,000 {{CRLF}}
+{{CRLF}}
+2. Trip Interruption Coverage {{CRLF}}
+Coverage for additional expenses if your trip is interrupted and you need to {{CRLF}}
+return home early. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $5,000 {{CRLF}}
+{{CRLF}}
+3. Medical Expense Coverage {{CRLF}}
+Coverage for medical expenses incurred while traveling, including {{CRLF}}
+emergency medical care and hospitalization. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $50,000 {{CRLF}}
+{{CRLF}}
+4. Emergency Evacuation Coverage {{CRLF}}
+Coverage for expenses related to emergency medical evacuation or {{CRLF}}
+repatriation. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $100,000 {{CRLF}}
+{{CRLF}}
+5. Lost Baggage Coverage {{CRLF}}
+Coverage for the cost of replacing personal items if your baggage is lost, {{CRLF}}
+stolen, or damaged. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $1,000 {{CRLF}}
+{{CRLF}}
+6. Travel Delay Coverage {{CRLF}}
+Coverage for additional expenses incurred due to travel delays. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $1,000 {{CRLF}}
+{{CRLF}}
+Payment Details: {{CRLF}}
+Premiums are due in full at the time of purchase. Please remit payment to the {{CRLF}}
+following bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+Bank Name: Beach City Bank {{CRLF}}
+Branch Address: 123 Sand Street, Beach City, CA 90210 {{CRLF}}
+Routing Number: 567890123 {{CRLF}}
+Account Number: {{432109876}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+{{CRLF}}
+Claims Information: {{CRLF}}
+For claim disbursements, payments will be made to the following bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+Bank Name: Beach City Bank {{CRLF}}
+Branch Address: 123 Sand Street, Beach City, CA 90210 {{CRLF}}
+Routing Number: 567890123 {{CRLF}}
+Account Number: {{432109876}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+{{CRLF}}
+Thank you for choosing Beach City Travel Insurance. {{CRLF}}

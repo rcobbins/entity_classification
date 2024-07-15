@@ -1,0 +1,64 @@
+RENTERS INSURANCE POLICY {{CRLF}}
+{{CRLF}}
+Policy Number: RI-11225577 {{CRLF}}
+Effective Date: August 1, 2024 {{CRLF}}
+Expiry Date: July 31, 2025 {{CRLF}}
+{{CRLF}}
+Policyholder Information: {{CRLF}}
+Emily Davis {{CRLF}}
+321 Apartment Lane, Apt. 2B {{CRLF}}
+Rentaltown, OH 45001 {{CRLF}}
+{{CRLF}}
+Coverage Details: {{CRLF}}
+{{CRLF}}
+1. Personal Property Coverage {{CRLF}}
+Coverage for personal belongings such as furniture, electronics, and clothing. {{CRLF}}
+{{CRLF}}
+
+Coverage Limit: $50,000 {{CRLF}}
+{{CRLF}}
+2. Liability Coverage {{CRLF}}
+Coverage for legal liability if the policyholder accidentally causes bodily injury {{CRLF}}
+or property damage to others. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $100,000 {{CRLF}}
+{{CRLF}}
+3. Loss of Use Coverage {{CRLF}}
+Coverage for additional living expenses if the policyholder's rented home {{CRLF}}
+becomes uninhabitable due to a covered loss. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $10,000 {{CRLF}}
+{{CRLF}}
+4. Medical Payments Coverage {{CRLF}}
+Coverage for medical expenses if a guest is injured in the policyholder's rented {{CRLF}}
+home. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $1,000 {{CRLF}}
+{{CRLF}}
+5. Additional Coverage for Valuables {{CRLF}}
+Coverage for high-value items such as jewelry, art, and collectibles. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $10,000 {{CRLF}}
+{{CRLF}}
+Payment Details: {{CRLF}}
+Premiums are due on a monthly basis. Please remit payment to the following {{CRLF}}
+bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+Bank Name: Rentaltown Bank {{CRLF}}
+Branch Address: 789 Lease Lane, Rentaltown, OH 45001 {{CRLF}}
+Routing Number: 890123456 {{CRLF}}
+Account Number: {{210987654}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+{{CRLF}}
+Claims Information: {{CRLF}}
+For claim disbursements, payments will be made to the following bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+Bank Name: Rentaltown Bank {{CRLF}}
+Branch Address: 789 Lease Lane, Rentaltown, OH 45001 {{CRLF}}
+Routing Number: 890123456 {{CRLF}}
+Account Number: {{210987654}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+{{CRLF}}
+Thank you for choosing Rentaltown Renters Insurance. {{CRLF}}

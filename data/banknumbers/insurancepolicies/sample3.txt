@@ -1,0 +1,71 @@
+HEALTH INSURANCE POLICY {{CRLF}}
+{{CRLF}}
+Policy Number: HP-11223344 {{CRLF}}
+Effective Date: March 1, 2024 {{CRLF}}
+Expiry Date: February 28, 2025 {{CRLF}}
+{{CRLF}}
+Policyholder Information: {{CRLF}}
+Robert Johnson {{CRLF}}
+789 Birch Road {{CRLF}}
+Metropolis, NY 10001 {{CRLF}}
+{{CRLF}}
+Coverage Details: {{CRLF}}
+{{CRLF}}
+1. Inpatient Hospitalization Coverage {{CRLF}}
+This coverage provides for expenses related to hospitalization, including room {{CRLF}}
+charges, nursing fees, and other related costs. {{CRLF}}
+{{CRLF}}
+
+Coverage Limit: $500,000 {{CRLF}}
+{{CRLF}}
+2. Outpatient Services Coverage {{CRLF}}
+This coverage includes expenses for outpatient services such as doctor visits, {{CRLF}}
+diagnostic tests, and minor procedures. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $100,000 {{CRLF}}
+{{CRLF}}
+3. Prescription Drug Coverage {{CRLF}}
+Prescription drug coverage helps pay for medications prescribed by a {{CRLF}}
+healthcare provider. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $50,000 {{CRLF}}
+{{CRLF}}
+4. Maternity and Newborn Care Coverage {{CRLF}}
+This coverage includes expenses for prenatal care, delivery, and postnatal care {{CRLF}}
+for both mother and newborn. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $100,000 {{CRLF}}
+{{CRLF}}
+5. Mental Health Services Coverage {{CRLF}}
+Coverage for mental health services including counseling, therapy, and {{CRLF}}
+psychiatric care. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $50,000 {{CRLF}}
+{{CRLF}}
+6. Emergency Services Coverage {{CRLF}}
+Coverage for emergency room visits and emergency medical services. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $50,000 {{CRLF}}
+{{CRLF}}
+Payment Details: {{CRLF}}
+Premiums are due on a monthly basis. Please remit payment to the following {{CRLF}}
+bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+Bank Name: Metropolis Bank {{CRLF}}
+Branch Address: 456 Elm Street, Metropolis, NY 10001 {{CRLF}}
+Routing Number: 345678901 {{CRLF}}
+Account Number: {{543210987}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+{{CRLF}}
+Claims Information: {{CRLF}}
+For claim disbursements, payments will be made to the following bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+Bank Name: Metropolis Bank {{CRLF}}
+Branch Address: 456 Elm Street, Metropolis, NY 10001 {{CRLF}}
+Routing Number: 345678901 {{CRLF}}
+Account Number: {{543210987}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+{{CRLF}}
+Thank you for choosing Metropolis Health Insurance. {{CRLF}}

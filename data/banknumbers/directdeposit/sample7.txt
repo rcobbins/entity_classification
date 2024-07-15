@@ -1,0 +1,16 @@
+Employee Personal Info: {{CRLF}}
+
+Full Name: Steven Lee {{CRLF}}
+Address: 345 Birch St, Lakeside, MI 49001 {{CRLF}}
+Employee ID: 1007 {{CRLF}}
+Bank Account Info: {{CRLF}}
+
+Bank Name: PNC Bank {{CRLF}}
+Branch Address: 654 Maple Ave, Lakeside, MI 49001 {{CRLF}}
+Routing Number: 789012345 {{CRLF}}
+Account Number: {{321098765}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+Signature Authorization: {{CRLF}}
+
+Signature: Steven Lee {{CRLF}}
+Date: 04/15/2024 {{CRLF}}

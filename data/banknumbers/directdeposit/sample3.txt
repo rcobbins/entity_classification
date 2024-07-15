@@ -1,0 +1,16 @@
+Personal Information: {{CRLF}}
+
+Employee Name: Robert Johnson {{CRLF}}
+Address: 456 Pine St, Metropolis, NY 10001 {{CRLF}}
+Employee Number: 1003 {{CRLF}}
+Bank Account Information: {{CRLF}}
+
+Bank Name: Chase Bank {{CRLF}}
+Bank Address: 789 Birch Rd, Metropolis, NY 10001 {{CRLF}}
+Routing Number: 345678901 {{CRLF}}
+Account Number: {{765432109}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+Employee Authorization: {{CRLF}}
+
+Signature: Robert Johnson {{CRLF}}
+Date: 02/15/2024 {{CRLF}}

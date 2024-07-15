@@ -1,0 +1,61 @@
+LIFE INSURANCE POLICY {{CRLF}}
+{{CRLF}}
+Policy Number: LI-33445566 {{CRLF}}
+Effective Date: June 1, 2024 {{CRLF}}
+Expiry Date: May 31, 2044 {{CRLF}}
+{{CRLF}}
+Policyholder Information: {{CRLF}}
+Michael Brown {{CRLF}}
+456 Elmwood Avenue {{CRLF}}
+Lifetown, FL 32001 {{CRLF}}
+{{CRLF}}
+Coverage Details: {{CRLF}}
+{{CRLF}}
+1. Death Benefit Coverage {{CRLF}}
+A lump sum payment to the beneficiary in the event of the policyholder's death. {{CRLF}}
+{{CRLF}}
+
+Coverage Limit: $500,000 {{CRLF}}
+{{CRLF}}
+2. Accidental Death Benefit Coverage {{CRLF}}
+An additional benefit paid in the event of the policyholder's accidental death. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $250,000 {{CRLF}}
+{{CRLF}}
+3. Disability Waiver of Premium {{CRLF}}
+Waives premium payments if the policyholder becomes totally disabled. {{CRLF}}
+{{CRLF}}
+Coverage Limit: Up to age 65 {{CRLF}}
+{{CRLF}}
+4. Accelerated Death Benefit {{CRLF}}
+Allows the policyholder to receive a portion of the death benefit if diagnosed {{CRLF}}
+with a terminal illness. {{CRLF}}
+{{CRLF}}
+Coverage Limit: Up to 50% of death benefit {{CRLF}}
+{{CRLF}}
+5. Term Conversion Option {{CRLF}}
+Allows the policyholder to convert the term policy to a permanent life insurance {{CRLF}}
+policy without a medical exam. {{CRLF}}
+{{CRLF}}
+Payment Details: {{CRLF}}
+Premiums are due on an annual basis. Please remit payment to the following {{CRLF}}
+bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+Bank Name: Lifetown Bank {{CRLF}}
+Branch Address: 789 Evergreen Street, Lifetown, FL 32001 {{CRLF}}
+Routing Number: 678901234 {{CRLF}}
+Account Number: {{210987654}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+{{CRLF}}
+Claims Information: {{CRLF}}
+For claim disbursements, payments will be made to the following bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+Bank Name: Lifetown Bank {{CRLF}}
+Branch Address: 789 Evergreen Street, Lifetown, FL 32001 {{CRLF}}
+Routing Number: 678901234 {{CRLF}}
+Account Number: {{210987654}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+{{CRLF}}
+Thank you for choosing Lifetown Life Insurance. {{CRLF}}

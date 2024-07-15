@@ -1,0 +1,17 @@
+Employee Info: {{CRLF}}
+
+Full Name: Kevin Martinez {{CRLF}}
+Residential Address: 789 Oak St, Harborview, MA 02101 {{CRLF}}
+Employee ID: 1009 {{CRLF}}
+Bank Details: {{CRLF}}
+
+Name of Bank: HSBC {{CRLF}}
+Branch Location: 123 Cedar Ln, Harborview, MA 02101 {{CRLF}}
+Routing Number: 901234567 {{CRLF}}
+Account Number: {{109876543}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Type of Account: Checking {{CRLF}}
+Signature for Authorization: {{CRLF}}
+
+Signature: Kevin Martinez {{CRLF}}
+Date: 05/15/2024 {{CRLF}}
+

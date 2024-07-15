@@ -1,0 +1,36 @@
+INVOICE {{CRLF}}
+{{CRLF}}
+Invoice Number: 006 {{CRLF}}
+Invoice Date: March 10, 2024 {{CRLF}}
+Due Date: April 10, 2024 {{CRLF}}
+{{CRLF}}
+Bill To: {{CRLF}}
+Johnson & Associates {{CRLF}}
+123 Legal Way {{CRLF}}
+Lawtown, IL 62701 {{CRLF}}
+{{CRLF}}
+Description of Services Provided: {{CRLF}}
+{{CRLF}}
+| Qty | Description | Unit Price | Total | {{CRLF}}
+|--------|-------------------------------------|---------------|---------------| {{CRLF}}
+| 20 | Legal Consultation - 20 hours | $200.00 | $4,000.00 | {{CRLF}}
+| 1 | Contract Review | $500.00 | $500.00 | {{CRLF}}
+| 1 | Litigation Preparation | $1,000.00 | $1,000.00 | {{CRLF}}
+| 1 | Court Representation | $1,500.00 | $1,500.00 | {{CRLF}}
+| 1 | Legal Research | $700.00 | $700.00 | {{CRLF}}
+{{CRLF}}
+Subtotal: $7,700.00 {{CRLF}}
+Tax (8%): $616.00 {{CRLF}}
+Total: $8,316.00 {{CRLF}}
+{{CRLF}}
+Please remit payment to the following bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+
+Bank Name: Lawtown Bank {{CRLF}}
+Branch Address: 456 Justice Blvd, Lawtown, IL 62701 {{CRLF}}
+Routing Number: 789012345 {{CRLF}}
+Account Number: {{321098765}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Business Checking {{CRLF}}
+{{CRLF}}
+Thank you for your prompt payment. {{CRLF}}

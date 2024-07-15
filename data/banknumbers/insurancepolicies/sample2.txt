@@ -1,0 +1,73 @@
+HOMEOWNERS INSURANCE POLICY {{CRLF}}
+{{CRLF}}
+Policy Number: HI-87654321 {{CRLF}}
+Effective Date: February 1, 2024 {{CRLF}}
+Expiry Date: January 31, 2025 {{CRLF}}
+{{CRLF}}
+Policyholder Information: {{CRLF}}
+Jane Smith {{CRLF}}
+456 Oak Street {{CRLF}}
+Anytown, TX 75001 {{CRLF}}
+{{CRLF}}
+Coverage Details: {{CRLF}}
+{{CRLF}}
+1. Dwelling Coverage {{CRLF}}
+Dwelling coverage helps pay to repair or rebuild your home if it's damaged by {{CRLF}}
+covered perils such as fire, windstorm, or hail. {{CRLF}}
+{{CRLF}}
+
+Coverage Limit: $300,000 {{CRLF}}
+{{CRLF}}
+2. Other Structures Coverage {{CRLF}}
+This coverage protects structures not attached to your home, such as a garage, {{CRLF}}
+shed, or fence. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $30,000 {{CRLF}}
+{{CRLF}}
+3. Personal Property Coverage {{CRLF}}
+Personal property coverage helps pay to repair or replace your belongings if {{CRLF}}
+they are damaged, stolen, or destroyed by a covered peril. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $150,000 {{CRLF}}
+{{CRLF}}
+4. Loss of Use Coverage {{CRLF}}
+If a covered loss forces you from your home, this coverage helps pay for {{CRLF}}
+additional living expenses such as hotel bills, restaurant meals, and other {{CRLF}}
+costs. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $30,000 {{CRLF}}
+{{CRLF}}
+5. Personal Liability Coverage {{CRLF}}
+Personal liability coverage helps protect you if someone is injured on your {{CRLF}}
+property or if you accidentally cause damage to someone else's property. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $100,000 {{CRLF}}
+{{CRLF}}
+6. Medical Payments to Others Coverage {{CRLF}}
+This coverage can help pay for medical expenses if someone is injured on your {{CRLF}}
+property. {{CRLF}}
+{{CRLF}}
+Coverage Limit: $5,000 {{CRLF}}
+{{CRLF}}
+Payment Details: {{CRLF}}
+Premiums are due on a semi-annual basis. Please remit payment to the following {{CRLF}}
+bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+Bank Name: Texas Bank {{CRLF}}
+Branch Address: 123 Pine Street, Anytown, TX 75001 {{CRLF}}
+Routing Number: 234567890 {{CRLF}}
+Account Number: {{876543210}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+{{CRLF}}
+Claims Information: {{CRLF}}
+For claim disbursements, payments will be made to the following bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+Bank Name: Texas Bank {{CRLF}}
+Branch Address: 123 Pine Street, Anytown, TX 75001 {{CRLF}}
+Routing Number: 234567890 {{CRLF}}
+Account Number: {{876543210}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+{{CRLF}}
+Thank you for choosing Texas Home Insurance. {{CRLF}}

@@ -1,0 +1,38 @@
+INVOICE {{CRLF}}
+{{CRLF}}
+Invoice Number: 005 {{CRLF}}
+Invoice Date: March 1, 2024 {{CRLF}}
+Due Date: March 31, 2024 {{CRLF}}
+{{CRLF}}
+Bill To: {{CRLF}}
+Creative Corp {{CRLF}}
+456 Art Lane {{CRLF}}
+Design City, NY 10002 {{CRLF}}
+{{CRLF}}
+Description of Services Provided: {{CRLF}}
+{{CRLF}}
+| Qty | Description | Unit Price | Total | {{CRLF}}
+|--------|--------------------------------------|---------------|---------------| {{CRLF}}
+| 15 | Logo Design - 15 concepts | $100.00 | $1,500.00 | {{CRLF}}
+| 1 | Brand Identity Package | $1,000.00 | $1,000.00 | {{CRLF}}
+| 1 | Business Card Design | $300.00 | $300.00 | {{CRLF}}
+| 1 | Brochure Design | $500.00 | $500.00 | {{CRLF}}
+| 1 | Social Media Kit | $400.00 | $400.00 | {{CRLF}}
+| 1 | Website Banner Design | $200.00 | $200.00 | {{CRLF}}
+| 1 | Flyer Design | $150.00 | $150.00 | {{CRLF}}
+{{CRLF}}
+Subtotal: $4,050.00 {{CRLF}}
+Tax (8%): $324.00 {{CRLF}}
+Total: $4,374.00 {{CRLF}}
+{{CRLF}}
+Please remit payment to the following bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+
+Bank Name: Design Bank {{CRLF}}
+Branch Address: 789 Creative Blvd, Design City, NY 10002 {{CRLF}}
+Routing Number: 678901234 {{CRLF}}
+Account Number: {{210987654}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Business Checking {{CRLF}}
+{{CRLF}}
+Thank you for choosing Creative Corp! {{CRLF}}

@@ -1,0 +1,25 @@
+To Whom It May Concern, {{CRLF}}
+
+I am writing to provide payment instructions for Invoice #67890, dated June 15, 2024, which pertains to the consulting {{CRLF}} 
+services rendered by our firm during the month of May 2024. Please ensure that all payments are directed to the {{CRLF}}
+following bank account: {{CRLF}}
+
+Bank Information: {{CRLF}}
+
+Bank Name: First Financial Bank {{CRLF}}
+Branch Address: 123 Main St, Springfield, IL 62701 {{CRLF}}
+Routing Number: 123456789 {{CRLF}}
+Account Number: {{987654321}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+We kindly request that the payment be made by July 15, 2024, to avoid any late fees or penalties as outlined in our {{CRLF}} service agreement. If you have any questions regarding this payment, please do not hesitate to contact our finance {{CRLF}}
+department at (555) 123-4567 or finance@consultingfirm.com. {{CRLF}}
+
+We appreciate your prompt attention to this matter. {{CRLF}}
+
+Sincerely, {{CRLF}}
+
+John Doe {{CRLF}}
+Finance Manager {{CRLF}}
+Doe Consulting Services, Inc. {{CRLF}}
+
+

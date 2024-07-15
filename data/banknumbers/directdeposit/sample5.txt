@@ -1,0 +1,16 @@
+Employee Information: {{CRLF}}
+
+Name: Michael Brown {{CRLF}}
+Address: 987 Oak Blvd, Capital City, CA 90001 {{CRLF}}
+Employee ID: 1005 {{CRLF}}
+Banking Information: {{CRLF}}
+
+Financial Institution: Citibank {{CRLF}}
+Branch Address: 321 Spruce St, Capital City, CA 90001 {{CRLF}}
+Routing Number: 567890123 {{CRLF}}
+Account Number: {{543210987}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+Employee Consent: {{CRLF}}
+
+Signature: Michael Brown {{CRLF}}
+Date: 03/15/2024 {{CRLF}}

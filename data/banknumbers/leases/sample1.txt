@@ -1,0 +1,77 @@
+RESIDENTIAL LEASE AGREEMENT {{CRLF}}
+{{CRLF}}
+THIS LEASE AGREEMENT (hereinafter referred to as the "Agreement") {{CRLF}}
+made and entered into this 1st day of January, 2024, by and between {{CRLF}}
+John Landlord (hereinafter referred to as the "Landlord") and Jane {{CRLF}}
+Tenant (hereinafter referred to as the "Tenant"). {{CRLF}}
+{{CRLF}}
+1. Premises: {{CRLF}}
+Landlord hereby leases to Tenant and Tenant hereby leases from Landlord {{CRLF}}
+the residential premises located at 123 Maple Street, Apartment 4B, {{CRLF}}
+Springfield, IL 62704 (hereinafter referred to as the "Premises"). {{CRLF}}
+{{CRLF}}
+2. Term: {{CRLF}}
+The term of this Agreement shall commence on the 1st day of February, {{CRLF}}
+2024, and shall continue on a month-to-month basis until terminated by {{CRLF}}
+either party in accordance with the provisions of this Agreement. {{CRLF}}
+{{CRLF}}
+3. Rent: {{CRLF}}
+Tenant shall pay to Landlord monthly rent in the amount of One Thousand {{CRLF}}
+Dollars ($1,000.00). The rent shall be payable in advance on the first day {{CRLF}}
+of each calendar month during the term hereof to the following bank {{CRLF}}
+account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+
+Bank Name: First National Bank {{CRLF}}
+Branch Address: 123 Main St, Springfield, IL 62704 {{CRLF}}
+Routing Number: 123456789 {{CRLF}}
+Account Number: {{987654321}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Checking {{CRLF}}
+{{CRLF}}
+4. Security Deposit: {{CRLF}}
+Tenant shall deposit with Landlord the sum of One Thousand Dollars {{CRLF}}
+($1,000.00) as security for the full and faithful performance by Tenant of {{CRLF}}
+all the terms of this Agreement. {{CRLF}}
+{{CRLF}}
+5. Utilities: {{CRLF}}
+Tenant shall be responsible for all utilities and services incurred in {{CRLF}}
+connection with the Premises, including but not limited to gas, water, {{CRLF}}
+electricity, and internet services. {{CRLF}}
+{{CRLF}}
+6. Use of Premises: {{CRLF}}
+The Premises shall be used and occupied by Tenant exclusively as a private {{CRLF}}
+single-family residence. Tenant shall not use the Premises or permit the {{CRLF}}
+Premises to be used for any other purpose. {{CRLF}}
+{{CRLF}}
+7. Maintenance and Repairs: {{CRLF}}
+Tenant shall keep the Premises in a clean and sanitary condition and shall {{CRLF}}
+promptly notify Landlord of any conditions requiring repairs. Landlord {{CRLF}}
+shall be responsible for all major repairs necessary to maintain the {{CRLF}}
+Premises in a habitable condition. {{CRLF}}
+{{CRLF}}
+8. Alterations and Improvements: {{CRLF}}
+Tenant shall not make any alterations or improvements to the Premises {{CRLF}}
+without the prior written consent of Landlord. {{CRLF}}
+{{CRLF}}
+9. Default: {{CRLF}}
+If Tenant fails to pay rent when due or breaches any other term of this {{CRLF}}
+Agreement, Landlord may terminate this Agreement and take possession of {{CRLF}}
+the Premises in accordance with applicable law. {{CRLF}}
+{{CRLF}}
+10. Termination: {{CRLF}}
+Either party may terminate this Agreement by giving the other party thirty {{CRLF}}
+(30) days' written notice of their intention to terminate. {{CRLF}}
+{{CRLF}}
+11. Governing Law: {{CRLF}}
+This Agreement shall be governed by and construed in accordance with the {{CRLF}}
+laws of the State of Illinois. {{CRLF}}
+{{CRLF}}
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of {{CRLF}}
+the day and year first above written. {{CRLF}}
+{{CRLF}}
+__________________________ {{CRLF}}
+John Landlord, Landlord {{CRLF}}
+{{CRLF}}
+__________________________ {{CRLF}}
+Jane Tenant, Tenant {{CRLF}}

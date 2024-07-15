@@ -1,0 +1,39 @@
+INVOICE {{CRLF}}
+{{CRLF}}
+Invoice Number: 007 {{CRLF}}
+Invoice Date: March 15, 2024 {{CRLF}}
+Due Date: April 15, 2024 {{CRLF}}
+{{CRLF}}
+Bill To: {{CRLF}}
+Green Thumb Landscaping {{CRLF}}
+789 Garden Lane {{CRLF}}
+Green City, WA 98001 {{CRLF}}
+{{CRLF}}
+Description of Services Provided: {{CRLF}}
+{{CRLF}}
+| Qty | Description | Unit Price | Total | {{CRLF}}
+|--------|-------------------------------------|---------------|---------------| {{CRLF}}
+| 1 | Lawn Mowing | $100.00 | $100.00 | {{CRLF}}
+| 1 | Hedge Trimming | $150.00 | $150.00 | {{CRLF}}
+| 1 | Flower Bed Maintenance | $200.00 | $200.00 | {{CRLF}}
+| 1 | Tree Pruning | $250.00 | $250.00 | {{CRLF}}
+| 1 | Garden Cleanup | $300.00 | $300.00 | {{CRLF}}
+| 1 | Seasonal Planting | $400.00 | $400.00 | {{CRLF}}
+| 1 | Irrigation System Installation | $1,000.00 | $1,000.00 | {{CRLF}}
+| 1 | Monthly Maintenance | $200.00 | $200.00 | {{CRLF}}
+{{CRLF}}
+Subtotal: $2,600.00 {{CRLF}}
+Tax (8%): $208.00 {{CRLF}}
+Total: $2,808.00 {{CRLF}}
+{{CRLF}}
+Please remit payment to the following bank account: {{CRLF}}
+{{CRLF}}
+Bank Information: {{CRLF}}
+
+Bank Name: Green City Bank {{CRLF}}
+Branch Address: 123 Garden Blvd, Green City, WA 98001 {{CRLF}}
+Routing Number: 890123456 {{CRLF}}
+Account Number: {{210987654}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Business Checking {{CRLF}}
+{{CRLF}}
+Thank you for choosing Green Thumb Landscaping! {{CRLF}}

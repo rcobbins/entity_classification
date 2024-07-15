@@ -1,0 +1,16 @@
+Employee Information: {{CRLF}}
+
+Full Name: John Doe {{CRLF}}
+Residential Address: 123 Main St, Springfield, IL 62701 {{CRLF}}
+Employee ID: 1001 {{CRLF}}
+Banking Details: {{CRLF}}
+
+Financial Institution: First National Bank {{CRLF}}
+Branch Location: 456 Elm St, Springfield, IL 62701 {{CRLF}}
+Routing Number: 123456789 {{CRLF}}
+Account Number: {{987654321}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Type of Account: Checking {{CRLF}}
+Authorization: {{CRLF}}
+
+Employee Signature: John Doe {{CRLF}}
+Date Signed: 01/15/2024 {{CRLF}}

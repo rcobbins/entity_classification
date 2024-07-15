@@ -1,0 +1,33 @@
+Example 2
+Dear Accounts Payable Team, {{CRLF}}
+{{CRLF}}
+This letter serves as the official payment instruction for {{CRLF}}
+the settlement of Invoice #54321, issued on May 10, 2024, for {{CRLF}}
+the software development services provided by our company. {{CRLF}}
+Please ensure that the payment is processed to the account {{CRLF}}
+details listed below: {{CRLF}}
+{{CRLF}}
+Bank Details: {{CRLF}}
+
+Bank: Bank of America {{CRLF}}
+Branch Location: 456 Elm St, Anytown, TX 75001 {{CRLF}}
+Routing Number: 234567890 {{CRLF}}
+Account Number: {{876543210}}{{BANK_ACCOUNT_NUMBER}} {{CRLF}}
+Account Type: Savings {{CRLF}}
+{{CRLF}}
+We kindly request that the payment be made no later than {{CRLF}}
+June 10, 2024, as per the terms agreed upon in our contract. {{CRLF}}
+Please include the invoice number and client reference in the {{CRLF}}
+payment details to ensure proper allocation of the funds. {{CRLF}}
+Should you have any inquiries or require further clarification, {{CRLF}}
+please contact our accounts department at (555) 987-6543 or {{CRLF}}
+accounts@techsolutions.com. {{CRLF}}
+{{CRLF}}
+Thank you for your cooperation. {{CRLF}}
+{{CRLF}}
+Best regards, {{CRLF}}
+{{CRLF}}
+Jane Smith {{CRLF}}
+Chief Executive Officer {{CRLF}}
+Tech Solutions Ltd. {{CRLF}}
+{{CRLF}}
